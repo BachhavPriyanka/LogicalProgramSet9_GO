@@ -1,0 +1,23 @@
+[
+ {
+  "Name": "Sachin Tendulkar",
+  "Period": "1989-2012",
+  "MatchesPlayed": 463,
+  "RunsScored": 18426,
+  "AvgScore": 44.83
+ },
+ {
+  "Name": "Saurav Ganguly",
+  "Period": "1992-2007",
+  "MatchesPlayed": 308,
+  "RunsScored": 11221,
+  "AvgScore": 40.95
+ },
+ {
+  "Name": "Rahul Dravid",
+  "Period": "1996-2011",
+  "MatchesPlayed": 340,
+  "RunsScored": 10768,
+  "AvgScore": 39.15
+ }
+]
